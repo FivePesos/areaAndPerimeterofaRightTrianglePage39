@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699367306 source:c:\users\johnp\onedrive\desktop\c programming\perimeterandareaofrighttrianglepage39\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
